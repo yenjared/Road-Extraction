@@ -1,4 +1,5 @@
 #wdym
+# idc anymore
 import torch
 import torch.nn as nn
 import torch.utils.data as data
